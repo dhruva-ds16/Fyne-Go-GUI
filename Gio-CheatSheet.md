@@ -138,7 +138,7 @@ func (s SplitRatio) Layout(gtx layout.Context, left, right layout.Widget) layout
 }
 ```
 
-Usage:
+Usage
 
 ```
 func exampleSplitRatio(gtx layout.Context, th *material.Theme) layout.Dimensions {
